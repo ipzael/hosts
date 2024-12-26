@@ -1,0 +1,27 @@
+# Pi-hole hosts file for blocking Riot Games and related services
+# Generated for Pi-hole usage
+# Format: 0.0.0.0 domain.name
+
+0.0.0.0 clientconfig.rpg.riotgames.com
+0.0.0.0 auth.riotgames.com
+0.0.0.0 authenticate.riotgames.com
+0.0.0.0 riot-client.dyn.riotcdn.net
+0.0.0.0 sdk-api-v1.singular.net
+0.0.0.0 ekg.riotgames.com
+0.0.0.0 bacon.secure.dyn.riotcdn.net
+0.0.0.0 lol.secure.dyn.riotcdn.net
+0.0.0.0 riot-client.secure.dyn.riotcdn.net
+0.0.0.0 ritoplus.secure.dyn.riotcdn.net
+0.0.0.0 valorant.secure.dyn.riotcdn.net
+0.0.0.0 wildrift.secure.dyn.riotcdn.net
+0.0.0.0 data.riotgames.com
+0.0.0.0 entitlements.auth.riotgames.com
+0.0.0.0 player-preferences-usw2.pp.sgp.pvp.net
+0.0.0.0 riot-geo.pas.si.riotgames.com
+0.0.0.0 la1.chat.si.riotgames.com
+0.0.0.0 us.edge.rms.si.riotgames.com
+0.0.0.0 api.account.riotgames.com
+0.0.0.0 usw2-red.pp.sgp.pvp.net
+0.0.0.0 lan-red.lol.sgp.pvp.net
+0.0.0.0 sieve.services.riotcdn.net
+0.0.0.0 edge.rgg.pmc.pay.riotgames.com
